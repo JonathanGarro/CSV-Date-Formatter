@@ -27,6 +27,8 @@ pip install pandas
 
 ## Usage
 
+**Note**: I've only developed and tested this in MacOS. While the Python should work across platforms, the shell script may cause errors on PC and require slight modifications.
+
 ### Option 1: Using the Command Script (Recommended)
 
 In order to reduce the complexity to using this utility, I've created a bash script that can be double-clicked to run the python code without the need to open Terminal. This first option walks you through that simpler process.
